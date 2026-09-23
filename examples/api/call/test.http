@@ -1,0 +1,15 @@
+@hostname = http://localhost:8000
+
+GET {{hostname}}/heartbeat HTTP/1.1
+
+###
+
+POST {{hostname}}/lunar HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+
+{
+    "observeDate": "2026-03-02",
+    "isDaylightSavings": true,
+    "zoneCorrectionHours": 5
+}

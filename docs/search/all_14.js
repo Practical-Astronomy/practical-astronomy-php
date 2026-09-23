@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['universal_5ftime_5flocal_5fcivil_5fday_0',['universal_time_local_civil_day',['../namespacePA_1_1Macros.html#ad53e7e08e16bcf07bbb5067128667f18',1,'PA::Macros']]],
+  ['universal_5ftime_5flocal_5fcivil_5fmonth_1',['universal_time_local_civil_month',['../namespacePA_1_1Macros.html#abb2ff7b8b8c61c547a4b5e95540d65f4',1,'PA::Macros']]],
+  ['universal_5ftime_5flocal_5fcivil_5fyear_2',['universal_time_local_civil_year',['../namespacePA_1_1Macros.html#a4527382e8cfd73d522e8ed80d9fe0da8',1,'PA::Macros']]],
+  ['universal_5ftime_5fto_5fgreenwich_5fsidereal_5ftime_3',['universal_time_to_greenwich_sidereal_time',['../namespacePA_1_1DateTime.html#a85cdac0f58d099c18011a65d2fbd8a8c',1,'PA\DateTime\universal_time_to_greenwich_sidereal_time()'],['../namespacePA_1_1Macros.html#a28e836b09e8a497b537b1b09574ef9a0',1,'PA\Macros\universal_time_to_greenwich_sidereal_time()']]],
+  ['universal_5ftime_5fto_5flocal_5fcivil_5ftime_5fdt_4',['universal_time_to_local_civil_time_dt',['../namespacePA_1_1DateTime.html#ad36876ece56e3d3c8d7b1128f8689ebb',1,'PA::DateTime']]],
+  ['universal_5ftime_5fto_5flocal_5fcivil_5ftime_5fma_5',['universal_time_to_local_civil_time_ma',['../namespacePA_1_1Macros.html#ac18664ac0774197aefbe3018a834937d',1,'PA::Macros']]],
+  ['unwind_6',['unwind',['../namespacePA_1_1Macros.html#a99c8ebde479962a74ac4555f3ae326a5',1,'PA::Macros']]],
+  ['unwind_5fdeg_7',['unwind_deg',['../namespacePA_1_1Macros.html#aa05db712897ecca62af04656560b7c55',1,'PA::Macros']]],
+  ['ut_5fday_5fadjust_8',['ut_day_adjust',['../namespacePA_1_1Macros.html#abd18c65ee43b0d3b57426c7e9d09ab45',1,'PA::Macros']]],
+  ['ut_5fend_5ftotal_5flunar_5feclipse_9',['ut_end_total_lunar_eclipse',['../namespacePA_1_1Macros.html#a0279c9ca15af77816d7454719c8ef7ae',1,'PA::Macros']]],
+  ['ut_5fend_5fumbra_5flunar_5feclipse_10',['ut_end_umbra_lunar_eclipse',['../namespacePA_1_1Macros.html#ae4c5a993e4c51c4ba1084a3b6cf53657',1,'PA::Macros']]],
+  ['ut_5ffirst_5fcontact_5flunar_5feclipse_11',['ut_first_contact_lunar_eclipse',['../namespacePA_1_1Macros.html#a50a65fba50f3944499144ccc03a264a2',1,'PA::Macros']]],
+  ['ut_5ffirst_5fcontact_5fsolar_5feclipse_12',['ut_first_contact_solar_eclipse',['../namespacePA_1_1Macros.html#ad314e8bf93b021bce26feeafb40dc5b1',1,'PA::Macros']]],
+  ['ut_5ffirst_5fcontact_5fsolar_5feclipse_5fl7390_13',['ut_first_contact_solar_eclipse_l7390',['../namespacePA_1_1Macros.html#afa4fc183af956f64fde082445623702a',1,'PA::Macros']]],
+  ['ut_5flast_5fcontact_5flunar_5feclipse_14',['ut_last_contact_lunar_eclipse',['../namespacePA_1_1Macros.html#a1745605415788363d6d1397fceea57f8',1,'PA::Macros']]],
+  ['ut_5flast_5fcontact_5fsolar_5feclipse_15',['ut_last_contact_solar_eclipse',['../namespacePA_1_1Macros.html#af1fb8fbb43db890145405053ee16fcce',1,'PA::Macros']]],
+  ['ut_5flast_5fcontact_5fsolar_5feclipse_5fl7390_16',['ut_last_contact_solar_eclipse_l7390',['../namespacePA_1_1Macros.html#a7897d49fbce5c6b6f68e26ddb2021c49',1,'PA::Macros']]],
+  ['ut_5fmax_5flunar_5feclipse_17',['ut_max_lunar_eclipse',['../namespacePA_1_1Macros.html#aee0a5f4afcf7b44fa2eebfe30f38fec1',1,'PA::Macros']]],
+  ['ut_5fmax_5fsolar_5feclipse_18',['ut_max_solar_eclipse',['../namespacePA_1_1Macros.html#a16de60de4faac5eaf2c7e1e74c581611',1,'PA::Macros']]],
+  ['ut_5fmax_5fsolar_5feclipse_5fl7390_19',['ut_max_solar_eclipse_l7390',['../namespacePA_1_1Macros.html#a559b3886cb50e7b6189029c3d7f29070',1,'PA::Macros']]],
+  ['ut_5fstart_5ftotal_5flunar_5feclipse_20',['ut_start_total_lunar_eclipse',['../namespacePA_1_1Macros.html#aeca32a57c141d80d3fa05f5787d8a6a0',1,'PA::Macros']]],
+  ['ut_5fstart_5fumbra_5flunar_5feclipse_21',['ut_start_umbra_lunar_eclipse',['../namespacePA_1_1Macros.html#ae88654601ec35f57e902de6d2b6d3d5b',1,'PA::Macros']]]
+];
